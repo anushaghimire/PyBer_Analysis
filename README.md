@@ -12,7 +12,7 @@ The purpose of the new analysis is to create a new data frame of ride-sharing da
 - The urban cities have the lowest average fare per ride and per driver.
 - The suburban cities are in the middle of both city types. 
 
-**PyBer summary dataframe **
+**PyBer summary dataframe**
 
 
 ![image](https://user-images.githubusercontent.com/85364095/127571515-d03c68b5-6272-452d-8dc5-beb7936b9042.png)
